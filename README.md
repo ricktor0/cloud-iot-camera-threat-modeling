@@ -10,11 +10,11 @@ Unlike traditional IoT sensors, connected camera systems continuously capture se
 ---
 ## Repository Structure
 
-0_papers/ → Collected research papers grouped by attack layer
-1_notes/ → Extracted observations from literature
-2_taxonomy/ → Constructed threat model and classifications
-3_synopsis/ → Proposal and early research documentation
-4_paper/ → Final review manuscript
+1. 0_papers/ → Collected research papers grouped by attack layer
+2. 1_notes/ → Extracted observations from literature
+3. 2_taxonomy/ → Constructed threat model and classifications
+4. 3_synopsis/ → Proposal and early research documentation
+5. 4_paper/ → Final review manuscript
 
 
 ---
