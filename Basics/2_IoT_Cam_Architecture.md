@@ -11,7 +11,7 @@ Defining the above are important because STRIDE threat model works on system com
 
 ## Data flow of a Cloud connected IOT camera :
 
-![[cloudbasedcam.png]]
+![Cloud IoT Camera Data Flow](https://github.com/ricktor0/cloud-iot-camera-threat-modeling/blob/d1394b4f8f2c285ed9498f6dcea85beb25371422/Basics/cloudbasedcam.png)
 
 Your 10-step flow:
 
