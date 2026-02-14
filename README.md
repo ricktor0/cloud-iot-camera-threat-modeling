@@ -47,8 +47,3 @@ This repository serves as:
 - A structured dataset of analyzed studies
 - A reproducible methodology for the review paper
 - Supporting material for the final publication
-
----
-## Status
-
-Work in progress — literature collection and taxonomy construction ongoing.
